@@ -1,4 +1,5 @@
 from flask import Flask
+import app
 import telegramApi as TA
 # insert at 1, 0 is the script path (or '' in REPL)
 
